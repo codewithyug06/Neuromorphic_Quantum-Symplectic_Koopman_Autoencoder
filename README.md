@@ -180,11 +180,5 @@ $$u_t + u u_x + u_{xx} + u_{xxxx} = 0$$
 
 ---
 
-## License
-
-Released under the [MIT License](./LICENSE).
-
----
-
 *Topics: autoencoder · deep-learning · fluid-dynamics · koopman-operator · pennylane · physics-informed-neural-networks · pytorch · quantum-machine-learning*
 
